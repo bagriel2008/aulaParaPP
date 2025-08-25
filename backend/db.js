@@ -1,4 +1,4 @@
-const mysql = require('mysql2/promise'); // Importa o mysql2 com suporte a Promises
+const mysql = require('mysql2/promise'); // Importa o mysql2 com suporte a Promise
  // Configurações do banco de dados
  const dbConfig = {
   host: 'localhost', // Ou o IP/endereço do seu servidor MySQL
